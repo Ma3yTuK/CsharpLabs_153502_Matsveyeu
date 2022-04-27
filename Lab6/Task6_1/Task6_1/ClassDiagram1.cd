@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task6_1.Chair" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAEAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAI=</HashCode>
+      <FileName>Chair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task6_1.Furniture" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABBEAAAAAAAAAAAEBAACAAAAAAAAgAAAAAAAM=</HashCode>
+      <FileName>Furniture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task6_1.RoundTable" Collapsed="true">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAE=</HashCode>
+      <FileName>RoundTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

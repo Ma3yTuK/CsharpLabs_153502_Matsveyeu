@@ -10,7 +10,7 @@ namespace Classes
     {
         List<Tarif> tarifList = new List<Tarif>();
         List<User> userList = new List<User>();
-        User findUser(string name)
+        private User findUser(string name)
         {
             for (int i = 0; i < userList.Count; i++)
             {
@@ -19,7 +19,7 @@ namespace Classes
             }
             return new User();
         }
-        Tarif findTarif(string name)
+        private Tarif findTarif(string name)
         {
             for (int i = 0; i < tarifList.Count; i++)
             {
